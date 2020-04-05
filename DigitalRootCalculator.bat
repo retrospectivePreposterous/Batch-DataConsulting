@@ -1,4 +1,4 @@
-:: DigitalRoot is an application developed by ALEJANDRO BURGUENO DIAZ.
+:: DigitalRootCalculator is an application developed by ALEJANDRO BURGUENO DIAZ.
 @echo off
 Title DigitalRoot
 mode 80,30
